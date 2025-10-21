@@ -37,4 +37,30 @@
 
 
 
+/   unshift example
+   // let arrayofNumbers = [1,2,3,4,5 ];
+   // arrayofNumbers.unshift(100,200); // items to add at the beginning array
+   // console.log(arrayofNumbers);    
+
+//  shift example
+  //let arrayofNumbers = [1,2,3,4,5 ];        
+  //  arrayofNumbers.shift(); // removes first item from the array
+  //  console.log(arrayofNumbers);  
+
+//  pop example
+// let arrayofNumbers = [1,2,3,4,5 ];     
+// arrayofNumbers.pop(); // removes last item from the array
+// console.log(arrayofNumbers);
+
+
+//  push example
+
+ let arrayofNumbers = [1,2,3,4,5 ]; 
+   
+ arrayofNumbers.push(6,7); // adds items at the end of the array
+
+ console.log(arrayofNumbers);
+
+
+
 </script>
